@@ -1,1 +1,9 @@
-gi
+Contents:
+
+Assignment.ipynb - jupyter notebook used to create and run each model.
+Visualise.ipynb - jupyter notebook for creating the graphs.
+accuracy_over_epochs_training.csv
+accuracy_over_epochs_training.csv
+
+Best model paths can be found here (files were too large):
+https://colab.research.google.com/drive/12cu7ZAF6-fKSN0frpuZNkG_Dtpln2rM2?usp=sharing
